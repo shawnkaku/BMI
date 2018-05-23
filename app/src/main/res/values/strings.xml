@@ -4,4 +4,5 @@
     <string name="help">Help</string>
     <string name="app_name">BMI</string>
     <string name="weight">Weitht(Kg):</string>
+    <string name="result">Result</string>
 </resources>
